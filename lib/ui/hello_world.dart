@@ -4,7 +4,7 @@ void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget{
 
-//  1⃣标题行组件
+  //  1⃣标题行组件
   Widget titleSection  = Container(
     padding: const EdgeInsets.all(32),
     child: Row(
