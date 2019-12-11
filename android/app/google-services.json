@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "758220888114",
+    "firebase_url": "https://blissyang-app.firebaseio.com",
+    "project_id": "blissyang-app",
+    "storage_bucket": "blissyang-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758220888114:android:a31d29db52fa55af08042b",
+        "android_client_info": {
+          "package_name": "com.flutter.bliss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758220888114-2oeqf9ci4gvi6nctque077oa6hed98kk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4xv30vWfTp-7sLcz9mmfq_RxTbYxdcYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758220888114-2oeqf9ci4gvi6nctque077oa6hed98kk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
